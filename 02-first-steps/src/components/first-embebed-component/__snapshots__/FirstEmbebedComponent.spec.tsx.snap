@@ -1,0 +1,34 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`FirstEmbebedComponent > should match snapshot 1`] = `
+<div>
+  <section
+    style="display: flex; flex-direction: column; gap: 20px;"
+  >
+    <h1>
+      Carrito de compras
+    </h1>
+    <div
+      data-testid="ItemCounter"
+    />
+    <div
+      data-testid="ItemCounter"
+    />
+    <div
+      data-testid="ItemCounter"
+    />
+    <span>
+      **************************************
+    </span>
+    <div
+      data-testid="ItemCounter"
+    />
+    <div
+      data-testid="ItemCounter"
+    />
+    <div
+      data-testid="ItemCounter"
+    />
+  </section>
+</div>
+`;
